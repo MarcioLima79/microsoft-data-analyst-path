@@ -1,73 +1,53 @@
 # 📈 Microsoft Learn – Data Analyst Career Path
 
-Objetivo: documentar meu progresso na trilha oficial de Analista de Dados da Microsoft.
+Documentação do meu progresso na trilha oficial **Microsoft Learn – Data Analyst Career Path**.
 
-Plano oficial:
-https://learn.microsoft.com/pt-br/plans/y2wkt5z4do381m
+## 🎯 Objetivo
+
+- Concluir todo o plano oficial da Microsoft.
+- Documentar cada módulo e unidade estudados.
+- Consolidar anotações para futuras revisões.
+- Preparar-me para a certificação **PL-300: Power BI Data Analyst Associate**.
 
 ---
 
 # 📊 Progresso Geral
 
-- [ ] Marco 1 – Treinamento individual para Power BI Data Analyst Associate
-- [ ] Marco 2 – Certificação Power BI Data Analyst Associate (PL-300)
+## Marco 1 — Treinamento individual
 
-Progressão:
+- [ ] Introdução à análise de dados da Microsoft
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+## Marco 2 — Certificação
 
----
-
-# 🟡 Marco 1 – Treinamento Individual
-
-Prazo sugerido: 21 dias.
-
-## Roteiro 1
-
-Introdução à análise de dados da Microsoft
-
-- [ ] Descobrir a análise de dados
-- [ ] Introdução ao Power BI
-- [ ] Construir com Power BI
-- [ ] Fluxo de trabalho do analista de dados
+- [ ] Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 ---
 
-## Roteiro 2
+## 📚 Roteiros de aprendizagem
 
-Modelar dados com o Power BI
-
-- [ ] Módulo 1
-- [ ] Módulo 2
-- [ ] Módulo 3
-- [ ] Módulo 4
-- [ ] Módulo 5
-- [ ] Módulo 6
-- [ ] Módulo 7
+| Roteiro                                    | Status          |
+| ------------------------------------------ | --------------- |
+| Introdução à análise de dados da Microsoft | ⬜ Não iniciado |
 
 ---
 
-# 🟡 Marco 2 – Certificação PL-300
+## 🏆 Certificação
 
-- [ ] Revisão geral
-- [ ] Simulados
-- [ ] Agendamento
-- [ ] Aprovação
+- [ ] PL-300
 
 ---
 
-# 📝 Registro de Estudos
+## 📂 Estrutura do repositório
 
-Última atualização:
-
-- Data:
-- Conteúdo:
-- Próximo passo:
+```text
+notes/
+└── learning-path-01-introduction-to-data-analysis/
+```
 
 ---
 
-# 🏆 Conquistas
+## 🔄 Última atualização
 
-- [ ] Marco 1 concluído
-- [ ] Plano concluído
-- [ ] PL-300 conquistada
+| Data | Conteúdo           |
+| ---- | ------------------ |
+| -    | Repositório criado |
